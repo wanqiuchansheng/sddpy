@@ -1,10 +1,10 @@
 import unittest
 
+from pyomotools.tools import cplex
 from sddp.SDDP import createSDDPModel
 from sddp.typedefinitions import *
 
-CplexSolver = SolverFactory('cplex',
-                            executable="/opt/ibm/ILOG/CPLEX_Studio128/cplex/bin/x86-64_linux/cplex")  # type:CPLEXSHELL
+CplexSolver = cplex() # type:CPLEXSHELL
 
 
 def solve_model(noise_probability:List[float]):
