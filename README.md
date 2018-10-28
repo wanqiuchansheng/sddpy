@@ -7,7 +7,7 @@ python3.6 or above
 
 pyomo5.5
 
-# Documentation
+# documentation
 
 [examples](https://github.com/wanqiuchansheng/sddpy/tree/master/sddp/example/HydroValley)
 
