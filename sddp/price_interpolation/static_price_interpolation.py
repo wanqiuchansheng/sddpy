@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/10 9:19
-# @Author  : zzp
-# @FileName: StaticPriceInterpolation.py
 
 import copy
 

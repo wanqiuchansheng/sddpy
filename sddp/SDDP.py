@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/1 13:13
-# @Author  : zzp
-# @FileName: SDDP.py
 """
 数学规划采用Pyomo
 """

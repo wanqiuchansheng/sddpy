@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/1 17:03
-# @Author  : zzp
-# @FileName: DefaultCutOracle.py
 from typing import List
 
 from sddp.typedefinitions import *

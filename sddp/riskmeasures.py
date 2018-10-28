@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/1 19:57
-# @Author  : zzp
-# @FileName: riskmeasures.py
 
 """
 风险衡量方法

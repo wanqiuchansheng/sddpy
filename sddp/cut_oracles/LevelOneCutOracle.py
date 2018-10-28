@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/15 8:36
-# @Author  : zzp
-# @FileName: LevelOneCutOracle.py
 from typing import List
 import numpy as np
 

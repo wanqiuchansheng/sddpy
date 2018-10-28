@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/14 21:44
-# @Author  : zzp
-# @FileName: dynamic_price_interpolation.py
 from typing import List, Generic, Callable
 from sddp.price_interpolation.discreate_distribution import *
 from sddp.price_interpolation.dynamic_price_interpolation_oracle import DynamicOracle

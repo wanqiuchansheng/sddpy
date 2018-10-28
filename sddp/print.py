@@ -1,8 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/5 11:11
-# @Author  : zzp
-# @FileName: print.py
-
 from sddp.typedefinitions import SDDPModel, Settings, SolutionLog
 # from prettytable import PrettyTable
 

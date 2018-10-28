@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/10/18 20:36
-# @Author  : zzp
-# @FileName: option.py
 """
 --help
 --verbose

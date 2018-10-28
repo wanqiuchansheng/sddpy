@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/1 16:37
-# @Author  : zzp
-# @FileName: defaultvaluefunction.py
 from copy import deepcopy
 from sddp.SDDP import solvesubproblem
 from sddp.state import setstates

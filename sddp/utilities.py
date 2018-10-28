@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/3 19:06
-# @Author  : zzp
-# @FileName: utilities.py
 """
 对基础类型的操作
 """

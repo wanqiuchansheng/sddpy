@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/10 18:18
-# @Author  : zzp
-# @FileName: dynamic_price_interpolation_oracle.py
 from typing import Any, Tuple, List, TypeVar, Generic
 import numpy as np
 from sddp.typedefinitions import AbstractCutOracle, Cut

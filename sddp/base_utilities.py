@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/1 21:18
-# @Author  : zzp
-# @FileName: utilities.py
 from typing import Dict
 
 from sddp.typedefinitions import *

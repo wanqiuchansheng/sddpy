@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/1 15:12
-# @Author  : zzp
-# @FileName: typedefinitions.py
 from enum import Enum
 from typing import List, TypeVar, Generic, Dict
 from pyomo.core import ConcreteModel, Var, Constraint, Expression

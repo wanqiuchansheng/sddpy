@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/2 9:34
-# @Author  : zzp
-# @FileName: state.py
 # from sddp.typedefinitions import *
 from sddp.typedefinitions import SDDPModel, Subproblem
 

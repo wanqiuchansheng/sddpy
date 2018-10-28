@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/10/10 21:28
-# @Author  : zzp
-# @FileName: piecewise_nd.py
 from functools import partial
 from typing import List
 

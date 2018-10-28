@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/20 21:24
-# @Author  : zzp
-# @FileName: tools.py
 from random import random
 from typing import List
 

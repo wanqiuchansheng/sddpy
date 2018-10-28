@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/16 19:38
-# @Author  : zzp
-# @FileName: binary_expansion.py
 """
 将整数或者浮点数转进行二进制展开
 """

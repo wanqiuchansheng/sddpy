@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/10 9:00
-# @Author  : zzp
-# @FileName: discreate_distribution.py
 from typing import List
 from sddp.utilities import *
 

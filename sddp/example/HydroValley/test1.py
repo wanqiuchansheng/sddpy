@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/8 22:20
-# @Author  : zzp
-# @FileName: test1.py
 from sddp.SDDP import solve_default
 from sddp.example.HydroValley.hydro_valley import hydrovalleymodel
 if __name__ == '__main__':

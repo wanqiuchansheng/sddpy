@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/20 21:20
-# @Author  : zzp
-# @FileName: ModelProxy.py
 """
 pyomo model 的代理方法
 """

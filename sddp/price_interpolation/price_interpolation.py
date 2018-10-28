@@ -1,7 +1,3 @@
-# @version : python3.5
-# @Time    : 2018/7/10 9:20
-# @Author  : zzp
-# @FileName: price_interpolation.py
 from typing import Callable
 
 from sddp.price_interpolation.discreate_distribution import *
