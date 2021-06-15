@@ -1,11 +1,19 @@
+#  Copyright 2017, Oscar Dowson
+#  This Source Code Form is subject to the terms of the Mozilla Public
+#  License, v. 2.0. If a copy of the MPL was not distributed with this
+#  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#############################################################################
+
+
 
 from sddp.cut_oracles.DefaultCutOracle import DefaultCutOracle
 from sddp.SDDP import createSDDPModel
+
+
 from sddp.riskmeasures import Expectation
 from sddp.typedefinitions import *
 
-CplexSolver = SolverFactory('cplex',
-                            executable="/opt/ibm/ILOG/CPLEX_Studio128/cplex/bin/x86-64_linux/cplex")  # type:CPLEXSHELL
+solver = SolverFactory('gurobi')
 
 
 class Turbine:
@@ -124,7 +132,7 @@ def hydrovalleymodel(
                         markov_transition=transition,
                         risk_measure=riskmeasure,
                         cut_oracle=cutoracle,
-                        solver=CplexSolver
+                        solver=solver
                         )
     # print(model_exp)
     return m

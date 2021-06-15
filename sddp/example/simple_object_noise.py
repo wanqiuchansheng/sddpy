@@ -1,7 +1,16 @@
+#  Copyright 2017, Oscar Dowson
+#  This Source Code Form is subject to the terms of the Mozilla Public
+#  License, v. 2.0. If a copy of the MPL was not distributed with this
+#  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#############################################################################
+
+
 import unittest
 
 from pyomotools.tools import cplex
 from sddp.SDDP import createSDDPModel
+
+
 from sddp.typedefinitions import *
 
 CplexSolver = cplex() # type:CPLEXSHELL

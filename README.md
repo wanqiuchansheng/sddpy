@@ -1,13 +1,13 @@
 # sddpy
 Python for Stochastic Dual Dynamic Programming Algorithm
 
-# dependencies
+The codes are tested on python 3.6 and pyomo 5.7.3.
 
-python3.6 or above
+# Documentation
 
-pyomo5.5
+examples
 
-# documentation
+# Acknowledge 
 
-[examples](https://github.com/wanqiuchansheng/sddpy/tree/master/sddp/example/HydroValley)
+This package can be seen a python version of  [SDDP.jl v0.0.2.]([SDDP.jl/src at v0.0.2 · odow/SDDP.jl (github.com)](https://github.com/odow/SDDP.jl/tree/v0.0.2/src)) The algorithmic principles and structure of the code are inspired by sddp.jl.
 

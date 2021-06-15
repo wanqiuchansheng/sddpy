@@ -1,6 +1,9 @@
-"""
-数学规划采用Pyomo
-"""
+#  Copyright 2017, Oscar Dowson
+#  This Source Code Form is subject to the terms of the Mozilla Public
+#  License, v. 2.0. If a copy of the MPL was not distributed with this
+#  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#############################################################################
+
 import copy
 # from sddp.defaultvaluefunction import DefaultValueFunction
 from sddp.riskmeasures import Expectation

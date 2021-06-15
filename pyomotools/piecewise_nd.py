@@ -7,6 +7,13 @@ import scipy.spatial.qhull as qhull
 import numpy as np
 # from pyomo.core.kernel.component_piecewise.util import generate_gray_code
 
+#  Copyright 2017, Oscar Dowson
+#  This Source Code Form is subject to the terms of the Mozilla Public
+#  License, v. 2.0. If a copy of the MPL was not distributed with this
+#  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#############################################################################
+
+
 from pyomotools.tools import generate_points, generate_gray_code
 
 

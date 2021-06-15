@@ -1,3 +1,10 @@
+#  Copyright 2017, Oscar Dowson
+#  This Source Code Form is subject to the terms of the Mozilla Public
+#  License, v. 2.0. If a copy of the MPL was not distributed with this
+#  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#############################################################################
+
+
 from typing import List, Generic, Callable
 from sddp.price_interpolation.discreate_distribution import *
 from sddp.price_interpolation.dynamic_price_interpolation_oracle import DynamicOracle
