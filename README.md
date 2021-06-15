@@ -9,5 +9,5 @@ examples
 
 # Acknowledge 
 
-This package can be seen a python version of  [SDDP.jl v0.0.2.]([SDDP.jl/src at v0.0.2 · odow/SDDP.jl (github.com)](https://github.com/odow/SDDP.jl/tree/v0.0.2/src)) The algorithmic principles and structure of the code are inspired by sddp.jl.
+This package can be seen a python version of  [SDDP.jl v0.0.2.](https://github.com/odow/SDDP.jl/tree/v0.0.2/src) The algorithmic principles and structure of the code are inspired by sddp.jl.
 
